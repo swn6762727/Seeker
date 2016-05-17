@@ -2,22 +2,15 @@
 
     <ion-content padding="true" class="has-header">
 
-        <ion-slide-box on-slide-changed="slideHasChanged($index)" auto-play="true" does-continue="true" slide-interval=2000 show-pager="true" pager-click="pageClick(index)" active-slide="model.activeIndex" delegate-handle="delegateHandler">
+        <ion-slide-box on-slide-changed="slideHasChanged($index)" auto-play="true" does-continue="true" slide-interval=1000 show-pager="true" pager-click="pageClick(index)" active-slide="model.activeIndex" delegate-handle="delegateHandler">
             <ion-slide>
-                <div class="box blue">
-                    <img src="" >
-                </div>
+                    <img src="img/dongman.jpg" class="full-image">
             </ion-slide>
+
             <ion-slide>
-                <div class="box yellow">
-                    <img src="http://img.iyookee.cn/20150619/20150619_100607_883_670.png">
-                </div>
+                <img src="img/yinyue.jpg" class="full-image">
             </ion-slide>
-            <ion-slide>
-                <div class="box pink">
-                    <img src="http://img.iyookee.cn/20150714/20150714_172952_955_22.jpg">
-                </div>
-            </ion-slide>
+
         </ion-slide-box>
 
         <div class="list card">

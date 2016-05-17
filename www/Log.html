@@ -21,6 +21,8 @@
     <script src="js/services.js"></script>
     <script src="js/directives.js"></script>
 
+    <script src="js/Log.js"></script>
+
     <!-- Only required for Tab projects w/ pages in multiple tabs
     <script src="lib/ionicuirouter/ionicUIRouter.js"></script>
     -->
@@ -36,15 +38,5 @@
     </div>
 </div>
 </body>
-
-<script>
-    function Logon_check(){
-        var user_name = document.getElementsByName("username").valueOf();
-        var user_pass = document.getElementsByName("password").valueOf();
-        var url="http://138.128.198.110:3000/LOGON?"+"UserName="+user_name+"&Passwd="+user_pass;
-        console.log(url);
-        $.ajax({url: url, async:false});
-    }
-</script>
 
 </html>
