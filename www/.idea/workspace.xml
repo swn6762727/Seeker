@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117d0c11-7a86-439f-90eb-8d6795b72060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fengkuangdongwucheng.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/longmao.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Community.html" afterPath="$PROJECT_DIR$/Main/Community.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Discover.html" afterPath="$PROJECT_DIR$/Main/Discover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Submit.html" afterPath="$PROJECT_DIR$/Main/Submit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/tabsController.html" afterPath="$PROJECT_DIR$/Main/tabsController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rank.html" afterPath="$PROJECT_DIR$/Rank.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Routes_Main.js" afterPath="$PROJECT_DIR$/js/Routes_Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controllers.js" afterPath="$PROJECT_DIR$/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/lib/ionic/css/ionic.css" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Log.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Log.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Log.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -127,24 +116,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Community.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main/Community.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="2" selection-start-column="42" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Signup.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Log/Signup.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="37" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="37" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="30" column="86" selection-start-line="30" selection-start-column="86" selection-end-line="30" selection-end-column="86" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -200,7 +192,6 @@
         <option value="$PROJECT_DIR$/js/controllers.js" />
         <option value="$PROJECT_DIR$/Main/Community_Collect.html" />
         <option value="$PROJECT_DIR$/Main/tabsController.html" />
-        <option value="$PROJECT_DIR$/Main/Community.html" />
         <option value="$PROJECT_DIR$/Log.html" />
         <option value="$PROJECT_DIR$/Main/Interest_list.html" />
         <option value="$PROJECT_DIR$/Interest_list.html" />
@@ -208,6 +199,7 @@
         <option value="$PROJECT_DIR$/Main/Content.html" />
         <option value="$PROJECT_DIR$/lib/ionic/css/ionic.css" />
         <option value="$PROJECT_DIR$/Main/Interest_List.html" />
+        <option value="$PROJECT_DIR$/Main/Community.html" />
       </list>
     </option>
   </component>
@@ -485,12 +477,12 @@
       <workItem from="1464949980835" duration="4496000" />
       <workItem from="1464999828099" duration="86000" />
       <workItem from="1465000066668" duration="8673000" />
-      <workItem from="1465036392964" duration="14181000" />
+      <workItem from="1465036392964" duration="14358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38071000" />
+    <option name="totallyTimeSpent" value="38248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -763,19 +755,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Community.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -927,6 +906,19 @@
         <state relative-caret-position="345">
           <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Community.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="2" selection-start-column="42" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
