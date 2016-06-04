@@ -1,0 +1,31 @@
+
+<body ng-app="starter" ng-controller="actionsheetCtl">
+<ion-view title="兴趣区" id="Page_Community">
+    <ion-content padding="true" class="has-header">
+        <div class="bar bar-header item-input-inset">
+            <label class="item-input-wrapper">
+                <i class="icon  ion-ios-search-strong placeholder-icon"></i>
+                <input type="search" placeholder="搜索" ng-model="searchName" ng-change="search(searchName)">
+            </label>
+        </div>
+        <div class="row">
+            <div class="col">
+                <button on-tap="onTap()" class="button button-small icon-left ion-stats-bars " aria-setsize="10" href="#/page1/discover">我的兴趣单</button>
+            </div>
+            <div class="col">
+                <button class="button button-small icon-left ion-star ">收藏的兴趣单</button>
+            </div>
+            <div class="col">
+                <button class="button button-small icon-left ion-bookmark ">关注的人</button>
+            </div>
+        </div>
+        <div class="list">
+
+            <a class="item_list" href="#">
+                <img src="img/interest_list1.jpeg" class="item_list_img" >
+            </a>
+
+        </div>
+    </ion-content>
+</ion-view>
+</body>

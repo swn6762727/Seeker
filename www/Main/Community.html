@@ -1,36 +1,54 @@
 
 <body ng-app="starter" ng-controller="actionsheetCtl">
 <ion-view title="兴趣区" id="Page_Community">
-    <ion-content padding="true" class="has-header">
-        <div class="bar bar-header item-input-inset">
-            <label class="item-input-wrapper">
-                <i class="icon  ion-ios-search-strong placeholder-icon"></i>
-                <input type="search" placeholder="搜索" ng-model="searchName" ng-change="search(searchName)">
-            </label>
-        </div>
-        <div class="row">
-            <div class="col">
-                <button on-tap="onTap()" class="button button-small icon-left ion-stats-bars " aria-setsize="10" href="#/page1/discover">我的兴趣单</button>
-            </div>
-            <div class="col">
-                <button class="button button-small icon-left ion-star ">收藏的兴趣单</button>
-            </div>
-            <div class="col">
-                <button class="button button-small icon-left ion-bookmark ">关注的人</button>
-            </div>
-        </div>
-        <div class="list card">
-            <div class="item item-icon-right" href="#">
-                <img src="https://pic4.zhimg.com/974359da2f3a99d8a3d6600f5580c553_r.jpg" height="58" weihgt="87" hspace="100" align="left" style="float:left;margin-right:20px;">
-                <h2>AlphaGo</h2>
-                <i class="icon ion-chevron-right"></i>
-            </div>
-            <div class="item item-icon-right" href="#">
-                <img src="https://pic4.zhimg.com/974359da2f3a99d8a3d6600f5580c553_r.jpg" height="58" weihgt="87" hspace="100" align="left" style="float:left;margin-right:20px;">
-                <h2>此去少年心</h2>
-                <i class="icon ion-chevron-right"></i>
-            </div>
-        </div>
+
+    <ion-tabs class="tabs-striped tabs-top tabs-icon-top ">
+        <ion-tab title="收藏的兴趣单" icon="ion-star" >
+            <ion-nav-view name="tab1">
+                <div class="list" style="padding-top: 93px">
+
+                <div class="item_list" ui-sref="interest_list">
+                    <img src="img/fengkuangdongwucheng.jpg" class="item_list_img" >
+                    <h3>疯狂动物城</h3>
+                </div>
+
+
+                </div>
+            </ion-nav-view>
+        </ion-tab>
+        <ion-tab title="我的兴趣单" icon="ion-navicon-round" href="" >
+            <ion-nav-view name="tab2">
+
+                <div class="list" style="padding-top: 93px">
+
+                    <div class="item_list" ui-sref="">
+                        <img src="img/longmao.jpg" class="item_list_img" >
+                        <h3>龙猫</h3>
+                    </div>
+
+                </div>
+
+            </ion-nav-view>
+        </ion-tab>
+        <ion-tab title="我的好友" icon="ion-ios-people" href="" >
+            <ion-nav-view name="tab3">
+
+                <div class="list" style="padding-top: 93px">
+
+                    <div class="item_list" ui-sref="">
+                        <img src="img/fengkuangdongwucheng.jpg" class="item_list_img" >
+                        <h3>疯狂动物城</h3>
+                    </div>
+
+                </div>
+
+            </ion-nav-view>
+        </ion-tab>
+    </ion-tabs>
+
+    <ion-content padding="true" class="has-header" style="padding-top: 60px">
+
+
     </ion-content>
 </ion-view>
 </body>
