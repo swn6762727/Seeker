@@ -1,66 +1,142 @@
-<ion-view title="发现" id="Page_Discover" style="background: gainsboro">
+<ion-view title="发现" id="Page_Discover" style="background-color: #dbdad9">
+    <div>
+        <ion-side-menus enable-menu-with-back-views="false" data-componentid="side-menu21">
+            <ion-side-menu-content>
+                <ion-nav-bar class="bar-stable" no-tap-scroll="true">
+                    <ion-nav-buttons side="left">
+                        <button class="button button-icon button-clear ion-navicon" menu-toggle="left"></button>
+                    </ion-nav-buttons>
+                </ion-nav-bar>
+                <ion-content padding="true" class="has-header">
 
-    <ion-content padding="true" class="has-header">
-        <div id="slide-box" >
-            <ion-slide-box on-slide-changed="slideHasChanged($index)" auto-play="true" does-continue="true" slide-interval=1000 show-pager="true"
-                           pager-click="pageClick(index)" active-slide="model.activeIndex" delegate-handle="delegateHandler" align="left" >
-                <ion-slide>
-                    <img src="img/dongman.jpg" class="full-image" >
-                </ion-slide>
+                    <div id="slide-box" >
+                        <ion-slide-box on-slide-changed="slideHasChanged($index)" auto-play="true" does-continue="true" slide-interval=1000 show-pager="true"
+                                       pager-click="pageClick(index)" active-slide="model.activeIndex" delegate-handle="delegateHandler" align="left" >
+                            <ion-slide>
+                                <img src="img/dongman.jpg" class="full-image" >
+                            </ion-slide>
 
-                <ion-slide>
-                    <img src="img/yinyue.jpg" class="full-image" >
-                </ion-slide>
+                            <ion-slide>
+                                <img src="img/yinyue.jpg" class="full-image" >
+                            </ion-slide>
 
-            </ion-slide-box>
-        </div>
+                            <ion-slide>
+                                <img src="img/bingxueqiyuan.jpeg" class="full-image" >
+                            </ion-slide>
+                        </ion-slide-box>
 
+                    </div>
 
-        <div class="list card" style="margin: 5px" >
+                    <div class="list card" style="margin: 5px" >
 
-            <div class="item item-avatar" style="padding-bottom: 0px;border-width: 0px">
-                <img src="img/icon.png" >
-                <h2>趣客 欢乐颂</h2>
-                <p>昨天 12：55</p>
-            </div>
+                        <div class="item item-avatar" style="padding-bottom: 0px;border-width: 0px">
+                            <img src="img/icon.png" >
+                            <h2>趣客 欢乐颂</h2>
+                            <p>昨天 12：55</p>
+                        </div>
 
-            <div style="padding-left: 10px; ">
-                <h4 style="margin: 0px">如何评价欢乐颂中的曲筱筱</h4>
-            </div>
+                        <div style="padding-left: 10px; ">
+                            <h4 style="margin: 0px">如何评价欢乐颂中的曲筱筱</h4>
+                        </div>
 
-            <div class="item item-body" style="padding-left: 0px;padding-right: 0px;padding-top: 5px;padding-bottom: 0px; border-width: 0px" style="border: 0px" style="position: relative" >
-                <img class="full-image" src="img/image_hls.jpg">
-            </div>
+                        <div class="item item-body" style="padding-left: 0px;padding-right: 0px;padding-top: 5px;padding-bottom: 0px; border-width: 0px" style="border: 0px" style="position: relative" >
+                            <img class="full-image" src="img/image_hls.jpg">
+                        </div>
 
-            <div class="item tabs tabs-secondary tabs-icon-left" style="height: 32px">
-                <a class="tab-item" href="#">
-                    <i class="icon ion-thumbsup"></i>
-                    16
-                </a>
+                        <div class="item tabs tabs-secondary tabs-icon-left" style="height: 32px">
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-thumbsup"></i>
+                                16
+                            </a>
 
-                <a class="tab-item" href="#">
-                    <i class="icon ion-heart"></i>
-                    205
-                </a>
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-heart"></i>
+                                205
+                            </a>
 
-                <a class="tab-item" href="#">
-                    <i class="icon ion-chatbubble"></i>
-                    92
-                </a>
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-chatbubble"></i>
+                                92
+                            </a>
 
-                <a class="tab-item" href="#">
-                    <i class="icon ion-thumbsdown"></i>
-                    11
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-thumbsdown"></i>
+                                11
 
-                </a>
+                            </a>
 
-                <a class="tab-item" href="#">
-                    <i class="icon ion-android-share"></i>
-                    297
-                </a>
-            </div>
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-android-share"></i>
+                                297
+                            </a>
+                        </div>
 
-        </div>
-    </ion-content>
+                    </div>
+                    <div class="list card" style="margin: 5px" >
+
+                        <div class="item item-avatar" style="padding-bottom: 0px;border-width: 0px">
+                            <img src="img/icon.png" >
+                            <h2>趣客 欢乐颂</h2>
+                            <p>昨天 12：55</p>
+                        </div>
+
+                        <div style="padding-left: 10px; ">
+                            <h4 style="margin: 0px">如何评价欢乐颂中的曲筱筱</h4>
+                        </div>
+
+                        <div class="item item-body" style="padding-left: 0px;padding-right: 0px;padding-top: 5px;padding-bottom: 0px; border-width: 0px" style="border: 0px" style="position: relative" >
+                            <img class="full-image" src="img/image_hls.jpg">
+                        </div>
+
+                        <div class="item tabs tabs-secondary tabs-icon-left" style="height: 32px">
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-thumbsup"></i>
+                                16
+                            </a>
+
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-heart"></i>
+                                205
+                            </a>
+
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-chatbubble"></i>
+                                92
+                            </a>
+
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-thumbsdown"></i>
+                                11
+
+                            </a>
+
+                            <a class="tab-item" href="#">
+                                <i class="icon ion-android-share"></i>
+                                297
+                            </a>
+                        </div>
+
+                    </div>
+                </ion-content>
+
+            </ion-side-menu-content>
+            <ion-side-menu side="left" id="side-menu21">
+                <ion-header-bar class="bar-stable">
+                    <div class="title">个人主页</div>
+                </ion-header-bar>
+                <ion-content padding="false" class="side-menu-left has-header">
+                    <div class="spacer" data-componentid="spacer3" style="width: 2px; height: 173px;"></div>
+                    <ion-list data-componentid="list1">
+                        <ion-item data-componentid="list-item1">我的资料</ion-item>
+                        <ion-item data-componentid="list-item2">设置</ion-item>
+                        <ion-item data-componentid="list-item12">我的消息</ion-item>
+                        <ion-item data-componentid="list-item11">反馈</ion-item>
+                        <ion-toggle toggle-class="toggle-positive" data-componentid="toggle2">夜间模式</ion-toggle>
+                    </ion-list>
+                    <a href="Log.html" menu-close="" id="sideMenu-button6" style="font-size:-2px;border-radius:2px 2px 2px 2px;" class="button button-assertive  button-block" data-componentid="button6">退出登录</a>
+                </ion-content>
+            </ion-side-menu>
+        </ion-side-menus>
+    </div>
 
 </ion-view>
