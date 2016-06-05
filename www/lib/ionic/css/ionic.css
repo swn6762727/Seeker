@@ -3917,11 +3917,11 @@ a.subdued {
       background: transparent; }
   .bar.bar-light {
     border-color: #ddd;
-    background-color: white;
+    background-color: rgba(158,158,158,.60)!important;
     background-image: linear-gradient(0deg, #ddd, #ddd 50%, transparent 50%);
     color: #444; }
     .bar.bar-light .title {
-      color: #444; }
+      color: white; }
     .bar.bar-light.bar-footer {
       background-image: linear-gradient(180deg, #ddd, #ddd 50%, transparent 50%); }
   .bar.bar-stable {
@@ -5672,7 +5672,7 @@ ion-tabs.tabs-color-active-dark .tab-item {
   z-index: 2;
   display: block;
   margin: -1px;
-  padding-left: 120px;
+  padding-left: 130px;
   border-width: 1px;
   height: 80px;
   border-style: solid;
@@ -5680,7 +5680,7 @@ ion-tabs.tabs-color-active-dark .tab-item {
 
 .item_list_img {
   top: 10px;
-  left: 30px;
+  left: 10px;
   height: 60px;
   position: absolute;
 }

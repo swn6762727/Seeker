@@ -45,11 +45,17 @@ angular.module('app.routes', [])
                 abstract: true
             })
 
+            .state('interest_content', {
+                templateUrl: 'Main/Interest_Content.html',
+            })
+
 
             .state('interest_list', {
-                url: '/interest_list',
-                templateUrl: 'Main/Interest_list.html'
+                templateUrl: 'Main/Interest_List.html'
             });
+            
+        
+        
             $urlRouterProvider.otherwise('/page1/community')
 
 

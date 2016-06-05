@@ -16,11 +16,11 @@
             <ion-nav-view name="tab1">
                 <div class="list" style="padding-top: 113px">
 
-                    <div class="item_list" ui-sref="interest_list">
+                    <div class="item_list" ui-sref="interest_list" nav-transition="ios">
                         <img src="img/fengkuangdongwucheng.jpg" class="item_list_img">
                         <h3>疯狂动物城</h3>
                     </div>
-                    <div class="item_list" ui-sref="interest_list">
+                    <div class="item_list" ui-sref="interest_content">
                         <img src="img/fengkuangdongwucheng.jpg" class="item_list_img">
                         <h3>疯狂动物城</h3>
                     </div>
@@ -38,8 +38,8 @@
 
                 <div class="list" style="padding-top: 113px">
 
-                    <div class="item_list" ui-sref="">
-                        <img src="img/longmao.jpg" class="item_list_img">
+                    <div class="item_list" ui-sref="interest_list">
+                        <img src="img/longmao2.jpg" class="item_list_img">
                         <h3>龙猫</h3>
                     </div>
 
@@ -47,7 +47,7 @@
 
             </ion-nav-view>
         </ion-tab>
-        <ion-tab title="我的好友" icon="ion-ios-people" href="">
+        <ion-tab title="我的好友" icon="ion-ios-people" href="interest_list">
             <ion-nav-view name="tab3">
 
                 <div class="list" style="padding-top: 113px">

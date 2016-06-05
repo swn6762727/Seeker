@@ -2,178 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117d0c11-7a86-439f-90eb-8d6795b72060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interesst_List.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Routes_Interest_List.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/generated/source/buildConfig/androidTest/debug/org/apache/cordova/test/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/generated/source/buildConfig/androidTest/debug/com/ionicframework/starter/test/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/com/ionicframework/starter/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/com/ionicframework/starter/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/com/ionicframework/starter/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/com/ionicframework/starter/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/com/ionicframework/starter/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/com/ionicframework/starter/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/com/ionicframework/starter/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/io/ionic/keyboard/IonicKeyboard$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/io/ionic/keyboard/IonicKeyboard$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/io/ionic/keyboard/IonicKeyboard$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/io/ionic/keyboard/IonicKeyboard$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/io/ionic/keyboard/IonicKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/device/Device.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$4$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$5$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/splashscreen/SplashScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/statusbar/StatusBar$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/statusbar/StatusBar$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/statusbar/StatusBar$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/statusbar/StatusBar$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/statusbar/StatusBar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/whitelist/WhitelistPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/classes/debug/org/apache/cordova/whitelist/WhitelistPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/dex-cache/cache.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_105613a9081bbeff9beb92c77f2454019cd4713f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/pre-dexed/debug/debug_3b70e61f3b77bc47b72e845f9fd28705d06279cb.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/resources-debug.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/symbols/debug/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/outputs/apk/android-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/outputs/apk/android-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/local.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/img/interest_list1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/www/img/interest_list1.jpeg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main/Interest_Content.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/www/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interesst_List.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-hdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-ldpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-mdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-xhdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-xxhdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-xxxhdpi/icon.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-xxxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/img/fengkuangdongwucheng.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/img/fengkuangdongwucheng.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/dgph" afterPath="$PROJECT_DIR$/../platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/libCordova.a" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/libCordova.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Info.plist" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/趣客" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/趣客" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/趣客_dependency_info.dat" afterPath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/趣客_dependency_info.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/img/fengkuangdongwucheng.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/dgph" afterPath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-hdpi-icon.png" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-hdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-ldpi-icon.png" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-ldpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-mdpi-icon.png" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-mdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xhdpi-icon.png" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xhdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxhdpi-icon.png" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xxhdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxxhdpi-icon.png" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xxxhdpi-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-40.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-40.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-40@2x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-40@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-50.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-50.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-50@2x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-50@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-60.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-60.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-60@2x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-60@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-60@3x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-60@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-72.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-72@2x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-72@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-76.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-76.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-76@2x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-76@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small@2x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-small@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small@3x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-small@3x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/icon/icon@2x.png" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bower.json" afterPath="$PROJECT_DIR$/../bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../config.xml" afterPath="$PROJECT_DIR$/../config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../platforms/android/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/CordovaLib.iml" afterPath="$PROJECT_DIR$/../platforms/android/CordovaLib/CordovaLib.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/android.iml" afterPath="$PROJECT_DIR$/../platforms/android/android.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Log.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Log.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Log/Login.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Log/Login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Log/Signup.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Log/Signup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/ios/www/img/fengkuangdongwucheng.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/img/fengkuangdongwucheng.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Community.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Discover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Submit.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Submit.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/interest_list.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/interest_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/tabsController.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/tabsController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/js/Routes_Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/js/controllers.js" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/js/Log.js" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/js/Log.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/lib/ionic/css/ionic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log/Login.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log/Login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log/Signup.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log/Signup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Community.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Discover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Submit.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Submit.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/interest_list.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/interest_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/tabsController.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/tabsController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Routes_Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/controllers.js" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Log.js" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Log.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/lib/ionic/css/ionic.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/xml/config.xml" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/xml/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/../platforms/android/res/xml/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Community.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Discover.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Interest_list.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Interest_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Submit.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Submit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/tabsController.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/tabsController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/Routes_Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/controllers.js" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/lib/ionic/css/ionic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Community.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Discover.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Interest_list.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Interest_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Submit.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Submit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/tabsController.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/tabsController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/ios/www/js/Routes_Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/js/controllers.js" afterPath="$PROJECT_DIR$/../platforms/ios/www/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/ios/www/lib/ionic/css/ionic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../platforms/ios/趣客.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客/趣客-Info.plist" afterPath="$PROJECT_DIR$/../platforms/ios/趣客/趣客-Info.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.html" afterPath="$PROJECT_DIR$/Main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Log.html" afterPath="$PROJECT_DIR$/Log.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Community.html" afterPath="$PROJECT_DIR$/Main/Community.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Discover.html" afterPath="$PROJECT_DIR$/Main/Discover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Submit.html" afterPath="$PROJECT_DIR$/Main/Submit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/content.html" afterPath="$PROJECT_DIR$/Main/content.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Log.js" afterPath="$PROJECT_DIR$/js/Log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Routes_Main.js" afterPath="$PROJECT_DIR$/js/Routes_Main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/lib/ionic/css/ionic.css" />
     </list>
     <ignored path="www.iws" />
@@ -198,18 +74,8 @@
       <file leaf-file-name="Log.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Log.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="37" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Log/Login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="555">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -218,51 +84,35 @@
       <file leaf-file-name="Main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Content.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main/Content.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interesst_List.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interesst_List.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interest_List.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main/Interest_List.html">
+      <file leaf-file-name="Interest_Content.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main/Interest_Content.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
               <folding>
-                <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ionic.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/ionic/css/ionic.css">
+      <file leaf-file-name="tabsController.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="3937" column="30" selection-start-line="3937" selection-start-column="30" selection-end-line="3937" selection-end-column="30" />
+            <state relative-caret-position="30">
+              <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -271,12 +121,11 @@
       <file leaf-file-name="Community.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main/Community.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+            <state relative-caret-position="120">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
@@ -285,18 +134,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Submit.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main/Submit.html">
+      <file leaf-file-name="Routes_Log.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Routes_Log.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="450">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Routes_Main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Routes_Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionic.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ionic/css/ionic.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="3932" column="17" selection-start-line="3932" selection-start-column="17" selection-end-line="3932" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -304,8 +167,8 @@
       <file leaf-file-name="Discover.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main/Discover.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="705">
+              <caret line="135" column="92" selection-start-line="135" selection-start-column="92" selection-end-line="135" selection-end-column="92" />
               <folding>
                 <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
@@ -326,7 +189,26 @@
                 <element signature="n#style#1;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#2;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#ion-side-menu#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interest_List.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/Interest_List.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -371,7 +253,6 @@
         <option value="$PROJECT_DIR$/Log/Login.html" />
         <option value="$PROJECT_DIR$/Log/Signup.html" />
         <option value="$PROJECT_DIR$/Main/interest_list.html" />
-        <option value="$PROJECT_DIR$/js/Log.js" />
         <option value="$PROJECT_DIR$/Rank.html" />
         <option value="$PROJECT_DIR$/Main/content.html" />
         <option value="$PROJECT_DIR$/Main/Community_Friend.html" />
@@ -382,20 +263,23 @@
         <option value="$PROJECT_DIR$/Main/tabsController.html" />
         <option value="$PROJECT_DIR$/Main/Interest_list.html" />
         <option value="$PROJECT_DIR$/Interest_list.html" />
-        <option value="$PROJECT_DIR$/Main/Content.html" />
         <option value="$PROJECT_DIR$/Main/Community_Collection.html" />
         <option value="$PROJECT_DIR$/Main/Community_Own.html" />
         <option value="$PROJECT_DIR$/Main/Community2.html" />
-        <option value="$PROJECT_DIR$/js/Routes_Main.js" />
         <option value="$PROJECT_DIR$/js/Routes_Interest_List.js" />
         <option value="$PROJECT_DIR$/Main.html" />
         <option value="$PROJECT_DIR$/Main/Submit.html" />
-        <option value="$PROJECT_DIR$/Log.html" />
         <option value="$PROJECT_DIR$/Interesst_List.html" />
-        <option value="$PROJECT_DIR$/Main/Community.html" />
+        <option value="$PROJECT_DIR$/Main/Content.html" />
         <option value="$PROJECT_DIR$/Main/Discover.html" />
-        <option value="$PROJECT_DIR$/Main/Interest_List.html" />
+        <option value="$PROJECT_DIR$/js/Log.js" />
+        <option value="$PROJECT_DIR$/Interest_Content.html" />
+        <option value="$PROJECT_DIR$/Log.html" />
+        <option value="$PROJECT_DIR$/js/Routes_Main.js" />
         <option value="$PROJECT_DIR$/lib/ionic/css/ionic.css" />
+        <option value="$PROJECT_DIR$/Main/Interest_Content.html" />
+        <option value="$PROJECT_DIR$/Main/Community.html" />
+        <option value="$PROJECT_DIR$/Main/Interest_List.html" />
       </list>
     </option>
   </component>
@@ -580,15 +464,15 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Main" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$/templates1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Main" />
       <recent name="$PROJECT_DIR$/templates1" />
     </key>
   </component>
@@ -677,12 +561,12 @@
       <workItem from="1465087264234" duration="3030000" />
       <workItem from="1465108620837" duration="1161000" />
       <workItem from="1465109937777" duration="3145000" />
-      <workItem from="1465126543404" duration="1474000" />
+      <workItem from="1465126543404" duration="12489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47332000" />
+    <option name="totallyTimeSpent" value="58347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -692,20 +576,20 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928476" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282532" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -727,13 +611,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -895,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Log.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Main/Community_Own.html" />
     <entry file="file://$PROJECT_DIR$/Main/Community_Collection.html" />
     <entry file="file://$PROJECT_DIR$/Main/Community.html">
@@ -911,18 +781,10 @@
           <folding>
             <element signature="n#style#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Routes_Log.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -933,55 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Routes_Rank.js">
+    <entry file="file://$PROJECT_DIR$/Interesst_List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Routes_Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rank.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log/Signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log/Login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="37" selection-end-column="10" />
+        <state relative-caret-position="450">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1000,26 +817,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Content.html">
+    <entry file="file://$PROJECT_DIR$/Rank.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="120">
+          <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.html">
+    <entry file="file://$PROJECT_DIR$/Log/Login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log/Signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Routes_Rank.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/Discover.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        <state relative-caret-position="705">
+          <caret line="135" column="92" selection-start-line="135" selection-start-column="92" selection-end-line="135" selection-end-column="92" />
           <folding>
             <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
@@ -1040,27 +909,11 @@
             <element signature="n#style#1;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#2;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#ion-side-menu#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Community.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interesst_List.html">
+    <entry file="file://$PROJECT_DIR$/js/Routes_Log.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -1068,22 +921,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Interest_List.html">
+    <entry file="file://$PROJECT_DIR$/Main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
-          <folding>
-            <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Routes_Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/ionic/css/ionic.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="3937" column="30" selection-start-line="3937" selection-start-column="30" selection-end-line="3937" selection-end-column="30" />
+        <state relative-caret-position="292">
+          <caret line="3932" column="17" selection-start-line="3932" selection-start-column="17" selection-end-line="3932" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Community.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Interest_List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Interest_Content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
