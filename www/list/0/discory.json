@@ -1,0 +1,84 @@
+[
+	{
+		"listid" : 1,
+		"itemid" : 3
+	},{
+		"listid" : 2,
+		"itemid" : 3
+	},{
+		"listid" : 3,
+		"itemid" : 3
+	},{
+		"listid" : 4,
+		"itemid" : 3
+	},{
+		"listid" : 5,
+		"itemid" : 3
+	},{
+		"listid" : 6,
+		"itemid" : 3
+	},{
+		"listid" : 7,
+		"itemid" : 3
+	},{
+		"listid" : 1,
+		"itemid" : 2
+	},{
+		"listid" : 2,
+		"itemid" : 2
+	},{
+		"listid" : 3,
+		"itemid" : 2
+	},{
+		"listid" : 4,
+		"itemid" : 2
+	},{
+		"listid" : 5,
+		"itemid" : 2
+	},{
+		"listid" : 6,
+		"itemid" : 2
+	},{
+		"listid" : 7,
+		"itemid" : 2
+	},{
+		"listid" : 1,
+		"itemid" : 1
+	},{
+		"listid" : 2,
+		"itemid" : 1
+	},{
+		"listid" : 3,
+		"itemid" : 1
+	},{
+		"listid" : 4,
+		"itemid" : 1
+	},{
+		"listid" : 5,
+		"itemid" : 1
+	},{
+		"listid" : 6,
+		"itemid" : 1
+	},{
+		"listid" : 7,
+		"itemid" : 1
+	},{
+		"listid" : 4,
+		"itemid" : 4
+	},{
+		"listid" : 7,
+		"itemid" : 4
+	},{
+		"listid" : 4,
+		"itemid" : 5
+	},{
+		"listid" : 7,
+		"itemid" : 5
+	},{
+		"listid" : 4,
+		"itemid" : 6
+	},{
+		"listid" : 7,
+		"itemid" : 6
+	}
+]

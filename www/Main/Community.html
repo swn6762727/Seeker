@@ -1,70 +1,60 @@
-<body ng-app="starter" ng-controller="actionsheetCtl">
-<ion-view title="兴趣区" id="Page_Community" style="background-color: #dbdad9">
-    <ion-nav-bar class="bar-stable" title="兴趣区">
-        <ion-nav-buttons side="right">
-            <button class="button button-icon button-clear ion-ios-compose-outline"></button>
-            <!--<div>-->
-                <!--<ion-nav-back-button class="button-icon icon ion-ios-arrow-back">Back</ion-nav-back-button>-->
-                <!--<ion-nav-view></ion-nav-view>-->
-            <!--</div>-->
-        </ion-nav-buttons>
+<ion-view view-title="兴趣区" id="Page_Community" style="background-color: #dbdad9">
+    <ion-header-bar class="bar-stable" >
+        <button class="button" ng-click="flag.showReorder=!flag.showReorder;flag.showDelete=false;">排序</button>
+        <h1 class="title">兴趣区</h1>
+        <button class="button icon ion-plus-round" ng-click="add_item()"></button>
 
-    </ion-nav-bar>
+    </ion-header-bar>
 
     <ion-tabs class="tabs-striped tabs-top tabs-icon-top ">
         <ion-tab title="收藏的兴趣单" icon="ion-star">
-            <ion-nav-view name="tab1">
-                <div class="list" style="padding-top: 113px">
 
-                    <div class="item_list" ui-sref="interest_list" nav-transition="ios">
-                        <img src="img/fengkuangdongwucheng.jpg" class="item_list_img">
-                        <h3>疯狂动物城</h3>
-                    </div>
-                    <div class="item_list" ui-sref="interest_content">
-                        <img src="img/fengkuangdongwucheng.jpg" class="item_list_img">
-                        <h3>疯狂动物城</h3>
-                    </div>
-                    <div class="item_list" ui-sref="interest_list">
-                        <img src="img/fengkuangdongwucheng.jpg" class="item_list_img">
-                        <h3>疯狂动物城</h3>
-                    </div>
+            <ion-content >
+                <ion-list show-delete="flag.showDelete" style="padding-top: 112px" show-reorder="flag.showReorder"
+                          can-swipe="true">
+                    <ion-item ng-repeat="item in items" ui-sref="interest_list">
+                        <img src="img/longmao2.jpg" class="item_list_img">
+                        <h3>{{item}}</h3>
+                        <ion-option-button class="button-positive icon ion-ios-compose-outline">
+                        </ion-option-button>
+                        <ion-option-button class="button-assertive icon ion-ios-trash-outline" ng-click="delete_item(item)">
+                        </ion-option-button>
+                        <ion-reorder-button class="ion-navicon"
+                                            on-reorder="move_item(item,$fromIndex,$toIndex)"></ion-reorder-button>
+                    </ion-item>
+                    <div class="spacer" data-componentid="spacer3" style="width: 0px; height: 180px;"></div>
+                </ion-list>
+            </ion-content>
 
-
-                </div>
-            </ion-nav-view>
         </ion-tab>
         <ion-tab title="我的兴趣单" icon="ion-navicon-round" href="">
-            <ion-nav-view name="tab2">
 
-                <div class="list" style="padding-top: 113px">
-
-                    <div class="item_list" ui-sref="interest_list">
+            <ion-content >
+                <ion-list show-delete="flag.showDelete" style="padding-top: 112px" show-reorder="flag.showReorder"
+                          can-swipe="true">
+                    <ion-item ng-repeat="item in items" ui-sref="interest_list">
                         <img src="img/longmao2.jpg" class="item_list_img">
-                        <h3>龙猫</h3>
-                    </div>
+                        <h3>{{item}}</h3>
+                        <ion-option-button class="button-positive icon ion-ios-compose-outline">
+                        </ion-option-button>
+                        <ion-option-button class="button-assertive icon ion-ios-trash-outline" ng-click="delete_item(item)">
+                        </ion-option-button>
+                        <ion-reorder-button class="ion-navicon"
+                                            on-reorder="move_item(item,$fromIndex,$toIndex)"></ion-reorder-button>
+                    </ion-item>
+                    <div class="spacer" data-componentid="spacer3" style="width: 0px; height: 180px;"></div>
+                </ion-list>
+            </ion-content>
 
-                </div>
-
-            </ion-nav-view>
         </ion-tab>
-        <ion-tab title="我的好友" icon="ion-ios-people" href="interest_list">
-            <ion-nav-view name="tab3">
+        <ion-tab title="我的好友" icon="ion-ios-people" href="">
 
-                <div class="list" style="padding-top: 113px">
+            <ion-content style="padding-top: 90px">
 
-                    <div class="item_list" ui-sref="">
-                        <img src="img/fengkuangdongwucheng.jpg" class="item_list_img">
-                        <h3>疯狂动物城</h3>
-                    </div>
+            </ion-content>
 
-                </div>
-
-            </ion-nav-view>
         </ion-tab>
     </ion-tabs>
 
-    <ion-content padding="true" class="has-header" style="padding-top: 60px">
-
     </ion-content>
 </ion-view>
-</body>

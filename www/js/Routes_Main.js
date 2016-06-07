@@ -47,16 +47,19 @@ angular.module('app.routes', [])
 
             .state('interest_content', {
                 templateUrl: 'Main/Interest_Content.html',
+                controller: 'interest_list_ctrl'
             })
 
 
             .state('interest_list', {
-                templateUrl: 'Main/Interest_List.html'
+                url:'/interest_list',
+                templateUrl: 'Main/Interest_List.html',
+                controller: 'interest_list_ctrl'
             });
-            
-        
-        
-            $urlRouterProvider.otherwise('/page1/community')
+
+
+
+            $urlRouterProvider.otherwise('/page1/discover')
 
 
     });

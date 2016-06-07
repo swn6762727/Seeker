@@ -5711,7 +5711,7 @@ ion-tabs.tabs-color-active-dark .tab-item {
     font-weight: normal; }
   .item h3 {
     margin: 0 0 4px 0;
-    font-size: 14px; }
+    font-size: 20px; }
   .item h4 {
     margin: 0 0 4px 0;
     font-size: 12px; }
@@ -5994,10 +5994,10 @@ button.item.item-complex {
 .item-radio .item-content {
   position: relative;
   z-index: 2;
-  padding: 16px 49px 16px 16px;
+  padding: 28px 100px 28px 130px;
   border: none;
+  height: 80px;
   background-color: #fff; }
-
 a.item-content {
   display: block;
   color: inherit;

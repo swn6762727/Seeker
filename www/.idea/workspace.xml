@@ -2,54 +2,158 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117d0c11-7a86-439f-90eb-8d6795b72060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main/Interest_Content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main/Test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list/1/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list/2/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list/slide_box.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/CordovaLib.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/android.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/generated/source/buildConfig/debug/com/ionicframework/starter/BuildConfig.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/blame/res/debug/single/drawable-land-hdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/blame/res/debug/single/drawable-land-xhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/blame/res/debug/single/drawable-land-xxhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/blame/res/debug/single/drawable-land-xxxhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/blame/res/debug/single/drawable-port-xxhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/blame/res/debug/single/drawable-port-xxxhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-hdpi-v4/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-xhdpi-v4/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-xxhdpi-v4/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-xxxhdpi-v4/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-xxhdpi-v4/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-xxxhdpi-v4/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-land-hdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-land-xhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-land-xxhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-land-xxxhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-port-xxhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-port-xxxhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/android/src/com/ionicframework/starter/MainActivity.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Rank.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/www/Interesst_List.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Interesst_List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platforms/ios/www/Rank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Rank.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/../platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/img/fengkuangdongwucheng.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/img/fengkuangdongwucheng.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-ldpi-v4/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-ldpi-v4/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-mdpi-v4/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-land-mdpi-v4/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-ldpi-v4/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-ldpi-v4/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-mdpi-v4/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-mdpi-v4/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-xhdpi-v4/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/drawable-port-xhdpi-v4/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-land-ldpi/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-land-ldpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-land-mdpi/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-land-mdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-port-hdpi/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-port-hdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-port-ldpi/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-port-ldpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-port-mdpi/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-port-mdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/drawable-port-xhdpi/screen.png" afterPath="$PROJECT_DIR$/../platforms/android/res/drawable-port-xhdpi/screen.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/dgph" afterPath="$PROJECT_DIR$/../platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app.dSYM/Contents/Resources/DWARF/趣客" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app.dSYM/Contents/Resources/DWARF/趣客" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default-568h@2x~iphone.png" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default-568h@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default-667h.png" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default-667h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default@2x~iphone.png" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default~iphone.png" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Default~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Info.plist" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/Info.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/img/fengkuangdongwucheng.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/趣客" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/趣客" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/AppDelegate.o" afterPath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/AppDelegate.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/MainViewController.o" afterPath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/MainViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/main.o" afterPath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/趣客_dependency_info.dat" afterPath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/Objects-normal/i386/趣客_dependency_info.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/dgph" afterPath="$PROJECT_DIR$/../platforms/ios/build/趣客.build/Debug-iphonesimulator/趣客.build/dgph" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/../platforms/ios/www/img/fengkuangdongwucheng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fengkuangdongwucheng.jpg" afterPath="$PROJECT_DIR$/img/fengkuangdongwucheng.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default-568h@2x~iphone.png" afterPath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default-568h@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default-667h.png" afterPath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default-667h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default@2x~iphone.png" afterPath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default~iphone.png" afterPath="$PROJECT_DIR$/../platforms/ios/趣客/Resources/splash/Default~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-land-ldpi-screen.png" afterPath="$PROJECT_DIR$/../resources/android/splash/drawable-land-ldpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-land-mdpi-screen.png" afterPath="$PROJECT_DIR$/../resources/android/splash/drawable-land-mdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-hdpi-screen.png" afterPath="$PROJECT_DIR$/../resources/android/splash/drawable-port-hdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-ldpi-screen.png" afterPath="$PROJECT_DIR$/../resources/android/splash/drawable-port-ldpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-mdpi-screen.png" afterPath="$PROJECT_DIR$/../resources/android/splash/drawable-port-mdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-xhdpi-screen.png" afterPath="$PROJECT_DIR$/../resources/android/splash/drawable-port-xhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/splash/Default-568h@2x~iphone.png" afterPath="$PROJECT_DIR$/../resources/ios/splash/Default-568h@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/splash/Default-667h.png" afterPath="$PROJECT_DIR$/../resources/ios/splash/Default-667h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/splash/Default@2x~iphone.png" afterPath="$PROJECT_DIR$/../resources/ios/splash/Default@2x~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/ios/splash/Default~iphone.png" afterPath="$PROJECT_DIR$/../resources/ios/splash/Default~iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../resources/splash.png" afterPath="$PROJECT_DIR$/../resources/splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../config.xml" afterPath="$PROJECT_DIR$/../config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/../platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../platforms/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/android.json" afterPath="$PROJECT_DIR$/../platforms/android/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Log.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Log.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Community.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/Discover.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/Main/interest_list.html" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/Main/interest_list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/js/Log.js" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/js/Log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/js/Routes_Main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/assets/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/android/assets/www/lib/ionic/css/ionic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Log.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Community.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/Discover.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/interest_list.html" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/Main/interest_list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Log.js" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/js/Routes_Main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/assets/debug/www/lib/ionic/css/ionic.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/xml/config.xml" afterPath="$PROJECT_DIR$/../platforms/android/build/intermediates/res/merged/debug/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/../platforms/android/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/../platforms/android/res/xml/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app.dSYM/Contents/Info.plist" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app.dSYM/Contents/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/config.xml" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Log.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Log.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Community.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Discover.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Interest_list.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/Interest_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/tabsController.html" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/Main/tabsController.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/Log.js" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/Log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/Routes_Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/controllers.js" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/ios/build/emulator/趣客.app/www/lib/ionic/css/ionic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Log.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Log.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Community.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Community.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Content.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Discover.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Discover.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/Interest_list.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/Interest_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/Main/tabsController.html" afterPath="$PROJECT_DIR$/../platforms/ios/www/Main/tabsController.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/js/Log.js" afterPath="$PROJECT_DIR$/../platforms/ios/www/js/Log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/js/Routes_Main.js" afterPath="$PROJECT_DIR$/../platforms/ios/www/js/Routes_Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/js/controllers.js" afterPath="$PROJECT_DIR$/../platforms/ios/www/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../platforms/ios/www/lib/ionic/css/ionic.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../platforms/ios/趣客.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客/config.xml" afterPath="$PROJECT_DIR$/../platforms/ios/趣客/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../platforms/ios/趣客/趣客-Info.plist" afterPath="$PROJECT_DIR$/../platforms/ios/趣客/趣客-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../plugins/android.json" afterPath="$PROJECT_DIR$/../plugins/android.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Log.html" afterPath="$PROJECT_DIR$/Log.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.html" afterPath="$PROJECT_DIR$/Main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Community.html" afterPath="$PROJECT_DIR$/Main/Community.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Discover.html" afterPath="$PROJECT_DIR$/Main/Discover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/content.html" afterPath="$PROJECT_DIR$/Main/content.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Log.js" afterPath="$PROJECT_DIR$/js/Log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Interest_Content.html" afterPath="$PROJECT_DIR$/Main/Interest_Content.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Submit.html" afterPath="$PROJECT_DIR$/Main/Submit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/interest_list.html" afterPath="$PROJECT_DIR$/Main/interest_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/tabsController.html" afterPath="$PROJECT_DIR$/Main/tabsController.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Routes_Main.js" afterPath="$PROJECT_DIR$/js/Routes_Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controllers.js" afterPath="$PROJECT_DIR$/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/lib/ionic/css/ionic.css" />
     </list>
     <ignored path="www.iws" />
@@ -71,48 +175,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Log.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Log.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interest_Content.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Main/Interest_Content.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabsController.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,45 +188,51 @@
       <file leaf-file-name="Community.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main/Community.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="396">
+              <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
               <folding>
-                <element signature="n#style#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#ion-header-bar#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#ion-list#0;n#ion-content#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#ion-list#0;n#ion-content#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-list#0;n#ion-content#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#ion-list#0;n#ion-content#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-content#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Routes_Log.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/Routes_Log.js">
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-15">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+              <folding>
+                <element signature="e#97#129#0" expanded="false" />
+                <marker date="1465252763000" expanded="true" signature="1497:1508" ph="..." />
+                <marker date="1465252763000" expanded="true" signature="1549:1586" ph="..." />
+                <marker date="1465252763000" expanded="true" signature="1671:1691" ph="..." />
+                <marker date="1465252763000" expanded="true" signature="1705:1716" ph="..." />
+                <marker date="1465252763000" expanded="true" signature="1790:1882" ph="..." />
+                <marker date="1465252763000" expanded="true" signature="1891:1902" ph="..." />
+                <marker date="1465252763000" expanded="true" signature="1911:1929" ph="..." />
+                <marker date="1465252763000" expanded="true" signature="2049:2061" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Routes_Main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/Routes_Main.js">
+      <file leaf-file-name="Content.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main/Content.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ionic.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/ionic/css/ionic.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="3932" column="17" selection-start-line="3932" selection-start-column="17" selection-end-line="3932" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#2;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,47 +240,48 @@
       <file leaf-file-name="Discover.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main/Discover.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="135" column="92" selection-start-line="135" selection-start-column="92" selection-end-line="135" selection-end-column="92" />
+            <state relative-caret-position="308">
+              <caret line="205" column="0" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#1;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#2;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#3;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#1;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#2;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#3;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#4;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#4;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Interest_List.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main/Interest_List.html">
+      <file leaf-file-name="Submit.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/Submit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="105">
+              <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
               <folding>
-                <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -258,28 +332,33 @@
         <option value="$PROJECT_DIR$/Main/Community_Friend.html" />
         <option value="$PROJECT_DIR$/Main/Community_Owner.html" />
         <option value="$PROJECT_DIR$/js/Routes_Community.js" />
-        <option value="$PROJECT_DIR$/js/controllers.js" />
         <option value="$PROJECT_DIR$/Main/Community_Collect.html" />
-        <option value="$PROJECT_DIR$/Main/tabsController.html" />
         <option value="$PROJECT_DIR$/Main/Interest_list.html" />
         <option value="$PROJECT_DIR$/Interest_list.html" />
         <option value="$PROJECT_DIR$/Main/Community_Collection.html" />
         <option value="$PROJECT_DIR$/Main/Community_Own.html" />
         <option value="$PROJECT_DIR$/Main/Community2.html" />
         <option value="$PROJECT_DIR$/js/Routes_Interest_List.js" />
-        <option value="$PROJECT_DIR$/Main.html" />
-        <option value="$PROJECT_DIR$/Main/Submit.html" />
         <option value="$PROJECT_DIR$/Interesst_List.html" />
         <option value="$PROJECT_DIR$/Main/Content.html" />
-        <option value="$PROJECT_DIR$/Main/Discover.html" />
-        <option value="$PROJECT_DIR$/js/Log.js" />
         <option value="$PROJECT_DIR$/Interest_Content.html" />
         <option value="$PROJECT_DIR$/Log.html" />
-        <option value="$PROJECT_DIR$/js/Routes_Main.js" />
+        <option value="$PROJECT_DIR$/Test.html" />
+        <option value="$PROJECT_DIR$/Main/Test.html" />
+        <option value="$PROJECT_DIR$/Main/tabsController.html" />
         <option value="$PROJECT_DIR$/lib/ionic/css/ionic.css" />
-        <option value="$PROJECT_DIR$/Main/Interest_Content.html" />
-        <option value="$PROJECT_DIR$/Main/Community.html" />
+        <option value="$PROJECT_DIR$/Main.html" />
+        <option value="$PROJECT_DIR$/add-change-dialog.html" />
         <option value="$PROJECT_DIR$/Main/Interest_List.html" />
+        <option value="$PROJECT_DIR$/Main/Community.html" />
+        <option value="$PROJECT_DIR$/js/Routes_Main.js" />
+        <option value="$PROJECT_DIR$/js/Log.js" />
+        <option value="$PROJECT_DIR$/js/controllers.js" />
+        <option value="$PROJECT_DIR$/Main/Interest_Content.html" />
+        <option value="$PROJECT_DIR$/list/slide_box.html" />
+        <option value="$PROJECT_DIR$/list/4/1.html" />
+        <option value="$PROJECT_DIR$/Main/Submit.html" />
+        <option value="$PROJECT_DIR$/Main/Discover.html" />
       </list>
     </option>
   </component>
@@ -318,7 +397,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -375,81 +453,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,22 +468,23 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.10.1/bin/node" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Main" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/templates1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Main" />
+      <recent name="$PROJECT_DIR$/list/1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/templates1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Main" />
       <recent name="$PROJECT_DIR$/templates1" />
     </key>
   </component>
@@ -561,12 +573,13 @@
       <workItem from="1465087264234" duration="3030000" />
       <workItem from="1465108620837" duration="1161000" />
       <workItem from="1465109937777" duration="3145000" />
-      <workItem from="1465126543404" duration="12489000" />
+      <workItem from="1465126543404" duration="13944000" />
+      <workItem from="1465197377097" duration="28823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58347000" />
+    <option name="totallyTimeSpent" value="88625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -574,7 +587,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282532" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -611,130 +624,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="53" column="32" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Routes_Log.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Find/Overview·.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Routes_Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log/Login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Find/Overview·.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-2.2.3.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/yinyue.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ionic/css/ionic.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/dongman.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ionic/fonts/ionicons.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Routes_Community.js" />
-    <entry file="file://$PROJECT_DIR$/Main/Community_Friend.html" />
-    <entry file="file://$PROJECT_DIR$/img/huangyelieren.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/fengkuangdongwucheng.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/longmao.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Community_Collect.html" />
     <entry file="file://$PROJECT_DIR$/Interest_list.html" />
     <entry file="file://$PROJECT_DIR$/img/huanlesong.jpg">
       <provider selected="true" editor-type-id="images">
@@ -751,24 +640,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -779,41 +654,22 @@
         <state relative-caret-position="75">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Routes_Interest_List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interesst_List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Submit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-          <folding>
             <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#ion-header-bar#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ion-list#0;n#ion-content#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-list#0;n#ion-content#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-list#0;n#ion-content#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-list#0;n#ion-content#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-content#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interesst_List.html" />
+    <entry file="file://$PROJECT_DIR$/Log/Signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -825,39 +681,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log/Login.html">
+    <entry file="file://$PROJECT_DIR$/lib/ionic/css/ionic.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="292">
+          <caret line="5998" column="15" selection-start-line="5998" selection-start-column="15" selection-end-line="5998" selection-end-column="15" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log/Signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Log.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#2;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,47 +697,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Main/tabsController.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        <state relative-caret-position="120">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log.html">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Discover.html">
+    <entry file="file://$PROJECT_DIR$/add-change-dialog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="135" column="92" selection-start-line="135" selection-start-column="92" selection-end-line="135" selection-end-column="92" />
-          <folding>
-            <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#2;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#2;n#div#2;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -921,66 +737,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/Routes_Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ionic/css/ionic.css">
+    <entry file="file://$PROJECT_DIR$/Log/Login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="3932" column="17" selection-start-line="3932" selection-start-column="17" selection-end-line="3932" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Community.html">
+    <entry file="file://$PROJECT_DIR$/js/Routes_Interest_List.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ion-nav-view#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ion-content#0;n#ion-view#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="6" selection-start-line="9" selection-start-column="4" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/1/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/Interest_List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
           <folding>
+            <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#1;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#2;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#2;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#2;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#2;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/Interest_Content.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#ion-nav-buttons#0;n#ion-nav-bar#0;n#ion-view#0;n#!!top" expanded="true" />
@@ -988,6 +833,275 @@
             <element signature="n#style#1;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#2;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/2/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="44" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/slide_box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/3/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/4/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/1/1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/1/0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/2/0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/2/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/2/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/3/0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/6/0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/7/0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/4/0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/4/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/2/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="44" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/2/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/3/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/3/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="34" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Submit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#ion-content#0;n#ion-view#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <element signature="e#97#129#0" expanded="false" />
+            <marker date="1465252763000" expanded="true" signature="1497:1508" ph="..." />
+            <marker date="1465252763000" expanded="true" signature="1549:1586" ph="..." />
+            <marker date="1465252763000" expanded="true" signature="1671:1691" ph="..." />
+            <marker date="1465252763000" expanded="true" signature="1705:1716" ph="..." />
+            <marker date="1465252763000" expanded="true" signature="1790:1882" ph="..." />
+            <marker date="1465252763000" expanded="true" signature="1891:1902" ph="..." />
+            <marker date="1465252763000" expanded="true" signature="1911:1929" ph="..." />
+            <marker date="1465252763000" expanded="true" signature="2049:2061" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Community.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#ion-header-bar#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ion-list#0;n#ion-content#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-list#0;n#ion-content#0;n#ion-tab#0;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-list#0;n#ion-content#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ion-list#0;n#ion-content#0;n#ion-tab#1;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-content#0;n#ion-tab#2;n#ion-tabs#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Discover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="205" column="0" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#2;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#4;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#4;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#ion-content#0;n#ion-side-menu#0;n#ion-side-menus#0;n#div#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#2;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

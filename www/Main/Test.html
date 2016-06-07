@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no,width=device-width,height=device-height">
+    <script src="../lib/ionic/js/ionic.bundle.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../lib/ionic/css/ionic.min.css">
+    <script src="../js/controllers.js"></script>
+</head>
+<body ng-controller="myCtrl">
+<ion-header-bar class="bar-positive">
+    <a class="button button-clear icon ion-ios-minus-outline" ng-click="flag.showDelete=!flag.showDelete;flag.showReorder=false;"></a>
+    <h1 class="title">成员按钮</h1>
+    <a class="button" ng-click="flag.showReorder=!flag.showReorder;flag.showDelete=false;">重新排序</a>
+</ion-header-bar>
+<ion-content>
+    <ion-list show-delete="flag.showDelete" show-reorder="flag.showReorder">
+        <ion-item ng-repeat="item in items">
+            {{item}}!
+            <ion-option-button class="button-calm">...</ion-option-button>
+
+            <ion-delete-button class="ion-minus-circled" ng-click="delete_item(item)"></ion-delete-button>
+            <ion-reorder-button class="ion-navicon" on-reorder="move_item(item,$fromIndex,$toIndex)"></ion-reorder-button>
+        </ion-item>
+    </ion-list>
+</ion-content>
+</body>
+</html>
+
